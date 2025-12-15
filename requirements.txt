@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-openai
+langchain-anthropic
+langchain-community
+pydantic
+python-dotenv
+jupyter
+tavily-python
+fastapi
+uvicorn
+streamlit
+llama-index
