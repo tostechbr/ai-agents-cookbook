@@ -38,6 +38,7 @@ The curriculum is organized into sequential modules. Each module contains:
 ## Technical Stack
 
 - **Orchestration:** [LangGraph](https://langchain-ai.github.io/langgraph/)
+- **Observability:** [LangSmith](https://smith.langchain.com/)
 - **LLMs:** Agnostic support (OpenAI, Anthropic, Ollama)
 - **Validation:** Pydantic
 - **Environment:** Python 3.11+
@@ -52,6 +53,6 @@ The curriculum is organized into sequential modules. Each module contains:
 3.  Configure environment variables:
     ```bash
     cp .env.example .env
-    # Edit .env with your API keys
+    # Edit .env with your API keys (OpenAI, LangSmith, etc.)
     ```
 4.  Begin with `Module-01-Foundations`.
