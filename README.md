@@ -1,13 +1,17 @@
+<div align="center">
+
 # 🦜🕸️ LangGraph Agents Cookbook
 
 ![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-> **From Zero to Orchestrator.**
-> A structured, practical guide to mastering AI Agents using LangGraph.
+**From Zero to Orchestrator.**
+A structured, practical guide to mastering AI Agents using LangGraph.
 
 **Topics:** `ai-agents` `langgraph` `tool-use` `agentic-rag` `multi-agent-systems` `python`
+
+</div>
 
 This repository is designed as a progressive course, taking you from basic graph concepts to complex, production-ready multi-agent systems.
 
